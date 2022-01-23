@@ -1,0 +1,5 @@
+  # Configurações de conexão para Telegram
+  telegram_log:
+    token: ''
+    chatid: ''
+    conta: 'Conta 01'
