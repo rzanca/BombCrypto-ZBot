@@ -38,7 +38,7 @@
     default: 0.7
 
     # Valor padrão: 0.8
-    commom: 0.8
+    common: 0.8
 
     # Valor padrão: 0.8
     rare: 0.8
