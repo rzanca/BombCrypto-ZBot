@@ -94,7 +94,7 @@
   scroll_size: 60
 
   # Valor padrão: 3
-  scroll_attemps: 3
+  scroll_attempts: 5
 
   # Valor padrão: true
   use_click_and_drag_instead_of_scroll: true
